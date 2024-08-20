@@ -17,7 +17,6 @@ btn = st.link_button(
     'Acesse dados no Kaggle',
     "https://www.kaggle.com/datasets/kevwesophia/fifa23-official-datasetclean-data"
 )
-btn = st.button('Acesse dados no Kaggle')
 
 st.markdown(
     """
